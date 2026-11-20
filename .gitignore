@@ -1,0 +1,7 @@
+# Xcode
+xcuserdata/
+*.xcuserstate
+
+# Visual Studio
+.vs/
+*.vcxproj.user
